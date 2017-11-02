@@ -1,6 +1,4 @@
-Service Worker Status: {
-	"state": {
-		"policy": {
+{
 			"Version": "1",
 			"RecommendedPolicyUUID": "97853e59-63ec-4ee8-8a00-7db0b7fb1afd",
 			"Domain": "www.question.com",
@@ -10,13 +8,6 @@ Service Worker Status: {
 			"IgnoreQueryParameters": true,
 			"DeferUrlMatchExact": [],
 			"DeferUrlMatchRegEx": [],
-			"BlockUrlMatchExact": ["https://adservice.google.com/adsid/integrator.js?domain=www.question.com"],
+			"BlockUrlMatchExact": ["https%3A%2F%2Fraw.githubusercontent.com%2Fsookinoby2%2F3pm%2Fmaster%2Fpolicy.json"],
 			"BlockUrlMatchRegEx": []
-		},
-		"policyUpdateUrl": "asdasdasdasdaad",
-		"policyUpdateSerial": 4,
-		"lastPolicyUpdate": "1970-01-01T00:00:00.000Z",
-		"traceEnabled": true
-	},
-	"disabled": false
 }
