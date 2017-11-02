@@ -10,7 +10,7 @@ Service Worker Status: {
 			"IgnoreQueryParameters": true,
 			"DeferUrlMatchExact": [],
 			"DeferUrlMatchRegEx": [],
-			"BlockUrlMatchExact": [],
+			"BlockUrlMatchExact": ["https://adservice.google.com/adsid/integrator.js?domain=www.question.com"],
 			"BlockUrlMatchRegEx": []
 		},
 		"policyUpdateUrl": "asdasdasdasdaad",
