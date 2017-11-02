@@ -1,0 +1,22 @@
+Service Worker Status: {
+	"state": {
+		"policy": {
+			"Version": "1",
+			"RecommendedPolicyUUID": "97853e59-63ec-4ee8-8a00-7db0b7fb1afd",
+			"Domain": "www.question.com",
+			"Timestamp": 1508883658435,
+			"SPOFProtectionEnabled": true,
+			"SPOFTimeout": 15,
+			"IgnoreQueryParameters": true,
+			"DeferUrlMatchExact": [],
+			"DeferUrlMatchRegEx": [],
+			"BlockUrlMatchExact": [],
+			"BlockUrlMatchRegEx": []
+		},
+		"policyUpdateUrl": "asdasdasdasdaad",
+		"policyUpdateSerial": 4,
+		"lastPolicyUpdate": "1970-01-01T00:00:00.000Z",
+		"traceEnabled": true
+	},
+	"disabled": false
+}
