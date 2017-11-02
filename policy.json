@@ -8,6 +8,6 @@
 			"IgnoreQueryParameters": true,
 			"DeferUrlMatchExact": [],
 			"DeferUrlMatchRegEx": [],
-			"BlockUrlMatchExact": ["https%3A%2F%2Fraw.githubusercontent.com%2Fsookinoby2%2F3pm%2Fmaster%2Fpolicy.json"],
+			"BlockUrlMatchExact": ["https://adservice.google.com/adsid/integrator.js?domain=www.question.com"],
 			"BlockUrlMatchRegEx": []
 }
